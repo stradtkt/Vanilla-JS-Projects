@@ -78,6 +78,7 @@ h2 {
 
 .form-control.error small {
     visibility: visible;
+    color: var(--error-color);
 }
 
 .form button {
